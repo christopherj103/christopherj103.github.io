@@ -8,3 +8,7 @@ padding: 5px 20px; border-radius: 30px;
 box-shadow: 6px 2px 4px rgb(21, 51, 90), -6px 2px 4px rgb(21, 51, 90)}
 #nav-td {cursor: pointer;}
 #bannerimg {width: 100%;}
+.large-embeds > iframe {
+width: 500px !important;
+height: 500px !important;
+}
